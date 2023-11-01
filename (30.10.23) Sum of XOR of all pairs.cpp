@@ -1,4 +1,4 @@
-Sum of XOR of all pairs
+/* Sum of XOR of all pairs
 
 Given an array of N integers, find the sum of xor of all pairs of numbers in the array arr. In other words, select all possible pairs of i and j from 0 to N-1 (i<j) and determine sum of all (arri xor arrj).
 
@@ -20,7 +20,7 @@ All possible pairs and there Xor
 Value: (5 ^ 9 = 12) + (5 ^ 7 = 2)
  + (5 ^ 6 = 3) + (9 ^ 7 = 14)
  + (9 ^ 6 = 15) + (7 ^ 6 = 1)
- = 12 + 2 + 3 + 14 + 15 + 1 = 47
+ = 12 + 2 + 3 + 14 + 15 + 1 = 47 */
 
 Solution:
 
