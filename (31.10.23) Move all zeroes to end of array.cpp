@@ -1,4 +1,4 @@
-Move all zeroes to end of array
+/* Move all zeroes to end of array
 
 Given an array arr[] of n positive integers. Push all the zeros of the given array to the right end of the array while maintaining the order of non-zero elements. Do the mentioned change in the array in-place.
 
@@ -18,7 +18,7 @@ N = 4
 Arr[] = {0, 0, 0, 4}
 Output: 4 0 0 0
 Explanation: 4 is the only non-zero
-element and it gets moved to the left.
+element and it gets moved to the left. */
 
 Solution:
 
