@@ -12,7 +12,7 @@ LeetCode_Arrays - Plus One
 Day 2(02.10.23)
 
 
-GFG_POTD-Minimum Numbers Between Two Numbers
+GFG_POTD-Minimum Distance Between Two Numbers
 
 
 LeetCode_Arrays - Remove Element
