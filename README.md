@@ -13,4 +13,8 @@ GFG_POTD-Minimum Distance Between Two Numbers
 
 LeetCode_Arrays - Remove Element
 
+Day 3(03.11.23)
 
+GFG_POTD-Pythagorean Triplet
+
+LeetCode_Arrays-Search Insert Position
