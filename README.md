@@ -22,3 +22,10 @@ Day 3(03.11.23)
 GFG_POTD-Pythagorean Triplet
 
 LeetCode_Arrays-Search Insert Position
+
+
+Day 4(04.11.23)
+
+GFG_POTD-Find Transition Point
+
+LeetCode_Arrays-Remove Duplicates From Sorted Array
