@@ -29,3 +29,10 @@ Day 4(04.11.23)
 GFG_POTD-Find Transition Point
 
 LeetCode_Arrays-Remove Duplicates From Sorted Array
+
+
+Day 5(05.11.23)
+
+GFG_POTD-Top k Frequent elements in Array
+
+LeetCode_Arrays-Merge Sorted Array
