@@ -36,3 +36,10 @@ Day 5(05.11.23)
 GFG_POTD-Top k Frequent elements in Array
 
 LeetCode_Arrays-Merge Sorted Array
+
+
+Day 6(06.11.23)
+
+GFG_POTD-Letter Collections
+
+LeetCode_Arrays-Monotonic Array
