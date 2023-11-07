@@ -43,3 +43,10 @@ Day 6(06.11.23)
 GFG_POTD-Letter Collections
 
 LeetCode_Arrays-Monotonic Array
+
+
+Day 7(07.11.23)
+
+GFG_POTD-Sum of Upper and Lower Triangles
+
+LeetCode_Arrays-Contains Duplicate
