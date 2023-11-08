@@ -50,3 +50,11 @@ Day 7(07.11.23)
 GFG_POTD-Sum of Upper and Lower Triangles
 
 LeetCode_Arrays-Contains Duplicate
+
+
+Day 8(08.11.23)
+
+GFG_POTD-Print Array in Snake Pattern
+
+LeetCode_Arrays-Single Number
+
