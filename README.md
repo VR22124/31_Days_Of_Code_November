@@ -58,3 +58,10 @@ GFG_POTD-Print Array in Snake Pattern
 
 LeetCode_Arrays-Single Number
 
+
+Day 9 (09.11.23)
+
+GFG_POTD-Predict The Column
+
+LeetCode_Arrays-Majority Element
+
