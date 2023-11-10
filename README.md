@@ -65,3 +65,10 @@ GFG_POTD-Predict The Column
 
 LeetCode_Arrays-Majority Element
 
+
+Day 10 (10.11.23)
+
+GFG_POTD-Number Following a Pattern
+
+LeetCode_Arrays-Contains Duplicate II
+
