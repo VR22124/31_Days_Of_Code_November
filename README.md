@@ -72,3 +72,10 @@ GFG_POTD-Number Following a Pattern
 
 LeetCode_Arrays-Contains Duplicate II
 
+
+Day 11 (11.11.23)
+
+GFG_POTD-Isomorphic Strings
+
+LeetCode_Arrays-Single Number II
+
