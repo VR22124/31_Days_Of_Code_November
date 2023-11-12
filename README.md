@@ -79,3 +79,10 @@ GFG_POTD-Isomorphic Strings
 
 LeetCode_Arrays-Single Number II
 
+
+Day 12 (12.11.23)
+
+GFG_POTD-Check If String is rotated by 2 Places
+
+LeetCode_Arrays-Search in rotated Sorted Array
+
