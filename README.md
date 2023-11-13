@@ -86,3 +86,10 @@ GFG_POTD-Check If String is rotated by 2 Places
 
 LeetCode_Arrays-Search in rotated Sorted Array
 
+
+Day 13 (13.11.23)
+
+GFG_POTD-Shortest Common Subsequence
+
+LeetCode_Arrays-Search in rotated Sorted Array II
+
