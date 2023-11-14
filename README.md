@@ -93,3 +93,10 @@ GFG_POTD-Shortest Common Subsequence
 
 LeetCode_Arrays-Search in rotated Sorted Array II
 
+
+Day 14 (14.11.23)
+
+GFG_POTD-Check if String are rotations of Each Other
+
+LeetCode_Arrays-Find Minimum in rotated Sorted Array II
+
