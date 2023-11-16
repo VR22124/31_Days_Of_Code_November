@@ -108,3 +108,11 @@ GFG_POTD-Better String
 LeetCode_Arrays-Rotate Array 
 
 
+Day 16 (16.11.23)
+
+GFG_POTD-Find the String 
+
+LeetCode_Arrays-Missing Number
+
+
+
