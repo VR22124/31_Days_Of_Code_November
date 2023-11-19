@@ -129,4 +129,11 @@ GFG_POTD-Reverse a Doubly Linked List
 LeetCode_Arrays-Transpose 2D matrix
 
 
+Day 19 (19.11.23)
+
+GFG_POTD-Intersection of 2 LinkedList
+
+LeetCode_Arrays-Squares of Sorted Array
+
+
 
