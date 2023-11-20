@@ -136,4 +136,11 @@ GFG_POTD-Intersection of 2 LinkedList
 LeetCode_Arrays-Squares of Sorted Array
 
 
+Day 20 (20.11.23)
+
+GFG_POTD- K Sum Paths
+
+LeetCode_Arrays-34. Find First and Last Position of element in sorted array
+
+
 
