@@ -143,4 +143,13 @@ GFG_POTD- K Sum Paths
 LeetCode_Arrays-34. Find First and Last Position of element in sorted array
 
 
+Day 21 (21.11.23)
+
+GFG_POTD- Check if two trees are Identical
+
+LeetCode_Arrays-34. Array Sum (Triplet)
+
+
+
+
 
