@@ -150,6 +150,14 @@ GFG_POTD- Check if two trees are Identical
 LeetCode_Arrays-34. Array Sum (Triplet)
 
 
+Day 22 (22.11.23)
+
+GFG_POTD- Symmetric Trees
+
+LeetCode_Arrays- Set Matrix Zeros
+
+
+
 
 
 
