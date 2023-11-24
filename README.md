@@ -164,6 +164,14 @@ GFG_POTD- AVL Tree Insertion
 LeetCode_Arrays- Sort Colours
 
 
+Day 24 (24.11.23)
+
+GFG_POTD- Pascal Triangle 
+
+LeetCode_Arrays- 3Sum Closest
+
+
+
 
 
 
