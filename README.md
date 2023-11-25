@@ -171,6 +171,16 @@ GFG_POTD- Pascal Triangle
 LeetCode_Arrays- 3Sum Closest
 
 
+Day 25 (25.11.23)
+
+GFG_POTD- Shuffle Numbers 
+
+LeetCode_Arrays- Count Prime Numbers
+
+
+
+
+
 
 
 
