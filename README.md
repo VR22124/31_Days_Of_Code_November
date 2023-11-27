@@ -185,6 +185,13 @@ GFG_POTD- Print Pattern
 LeetCode_Arrays- Kth Largest Element in the given Array
 
 
+Day 27 (27.11.23) 
+
+GFG_POTD- Detect Cycle using DCU
+
+LeetCode_Arrays- Maximum Gap
+
+
 
 
 
