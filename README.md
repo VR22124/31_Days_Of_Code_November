@@ -192,6 +192,13 @@ GFG_POTD- Detect Cycle using DCU
 LeetCode_Arrays- Maximum Gap
 
 
+Day 28 (28.11.23) 
+
+GFG_POTD- Sum of Dependancies of a Graph
+
+LeetCode_Arrays- Move All Zeros
+
+
 
 
 
