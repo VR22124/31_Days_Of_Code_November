@@ -199,6 +199,17 @@ GFG_POTD- Sum of Dependancies of a Graph
 LeetCode_Arrays- Move All Zeros
 
 
+Day 29 (29.11.23) 
+
+GFG_POTD- Eulers circuit and Eulers Path
+
+LeetCode_Arrays-Search a 2D matrix II
+
+
+
+
+
+
 
 
 
