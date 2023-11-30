@@ -206,6 +206,13 @@ GFG_POTD- Eulers circuit and Eulers Path
 LeetCode_Arrays-Search a 2D matrix II
 
 
+Day 30 (30.11.23) 
+
+GFG_POTD- Shortest Path from 1 to n
+
+LeetCode_Arrays-Find the duplicate number 
+
+
 
 
 
