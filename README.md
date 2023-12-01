@@ -213,6 +213,13 @@ GFG_POTD- Shortest Path from 1 to n
 LeetCode_Arrays-Find the duplicate number 
 
 
+Day 31 (31.11.23) 
+
+GFG_POTD- Check wether given BST has Dead End
+
+LeetCode_Arrays-Product of array Except Self
+
+
 
 
 
