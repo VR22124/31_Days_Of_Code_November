@@ -1,4 +1,4 @@
-# 31_Days_Of_Code
+# 31_Days_Of_Code_November
 GFG_POTD and LeetCode_Arrays Solutions
 
 Day 1 (01.11.23):
